@@ -54,4 +54,4 @@ A aplicação estará sendo executada em `localhost:3000`
 
 ## License
 
-Este projeto está sob a licença MIT.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
